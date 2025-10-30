@@ -1,0 +1,24 @@
+<script>start("/Users/tomgroman/Desktop/proof/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".DS_Store",".DS_Store",0,8196,"8.0 kB",1761820282,"10/30/25, 12:31:22 PM");</script>
+<script>addRow("1.png","1.png",0,1530621,"1.5 MB",1761644033,"10/28/25, 11:33:53 AM");</script>
+<script>addRow("10.png","10.png",0,979272,"956 kB",1761735751,"10/29/25, 1:02:31 PM");</script>
+<script>addRow("11.png","11.png",0,1044542,"1020 kB",1761742671,"10/29/25, 2:57:51 PM");</script>
+<script>addRow("12.png","12.png",0,1090512,"1.0 MB",1761742901,"10/29/25, 3:01:41 PM");</script>
+<script>addRow("13.png","13.png",0,1094129,"1.0 MB",1761742928,"10/29/25, 3:02:08 PM");</script>
+<script>addRow("14.png","14.png",0,1072222,"1.0 MB",1761743640,"10/29/25, 3:14:00 PM");</script>
+<script>addRow("15.png","15.png",0,1018906,"995 kB",1761743781,"10/29/25, 3:16:21 PM");</script>
+<script>addRow("16.png","16.png",0,1044420,"1020 kB",1761743727,"10/29/25, 3:15:27 PM");</script>
+<script>addRow("17.png","17.png",0,1114811,"1.1 MB",1761743828,"10/29/25, 3:17:08 PM");</script>
+<script>addRow("18.png","18.png",0,1119648,"1.1 MB",1761745093,"10/29/25, 3:38:13 PM");</script>
+<script>addRow("19.png","19.png",0,1221937,"1.2 MB",1761745898,"10/29/25, 3:51:38 PM");</script>
+<script>addRow("2.png","2.png",0,1071585,"1.0 MB",1761673561,"10/28/25, 7:46:01 PM");</script>
+<script>addRow("20.png","20.png",0,1125620,"1.1 MB",1761745875,"10/29/25, 3:51:15 PM");</script>
+<script>addRow("21.png","21.png",0,1155354,"1.1 MB",1761746037,"10/29/25, 3:53:57 PM");</script>
+<script>addRow("3.png","3.png",0,1079691,"1.0 MB",1761674539,"10/28/25, 8:02:19 PM");</script>
+<script>addRow("4.png","4.png",0,1103491,"1.1 MB",1761675451,"10/28/25, 8:17:31 PM");</script>
+<script>addRow("5.png","5.png",0,1024898,"1001 kB",1761734183,"10/29/25, 12:36:23 PM");</script>
+<script>addRow("6.png","6.png",0,1023120,"999 kB",1761734422,"10/29/25, 12:40:22 PM");</script>
+<script>addRow("7.png","7.png",0,1055315,"1.0 MB",1761735539,"10/29/25, 12:58:59 PM");</script>
+<script>addRow("8.png","8.png",0,1143570,"1.1 MB",1761735578,"10/29/25, 12:59:38 PM");</script>
+<script>addRow("9.png","9.png",0,1053573,"1.0 MB",1761735693,"10/29/25, 1:01:33 PM");</script>
